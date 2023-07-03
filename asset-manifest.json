@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/greet-react/static/css/main.79fd54ba.css",
+    "main.js": "/greet-react/static/js/main.4714384c.js",
+    "static/media/superwoman.jpg": "/greet-react/static/media/superwoman.4782496b11d3dabcd093.jpg",
+    "static/media/wonder-woman.jpg": "/greet-react/static/media/wonder-woman.9adefd15425dbb6e1af1.jpg",
+    "static/media/unicorn.webp": "/greet-react/static/media/unicorn.fc6551d663de7b9e83b6.webp",
+    "index.html": "/greet-react/index.html",
+    "main.79fd54ba.css.map": "/greet-react/static/css/main.79fd54ba.css.map",
+    "main.4714384c.js.map": "/greet-react/static/js/main.4714384c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79fd54ba.css",
+    "static/js/main.4714384c.js"
+  ]
+}
